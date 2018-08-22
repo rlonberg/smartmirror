@@ -28,4 +28,3 @@ Yea that smart mirror looks dope. Very clean. I think that's the article you sen
 3.A Third cuz I like lists of three, but it doesnt look as good
   http://www.instructables.com/id/100-Smart-Mirror-Pi/?ALLSTEPS
 
--- test commit
