@@ -1,3 +1,5 @@
+undo
+
 shared workspace for a mirror AI proof-of-concept
 
 Recommending we create a webserver to host our smart mirror application, and develop using CSS, HTML, and Javascript as our tools.
